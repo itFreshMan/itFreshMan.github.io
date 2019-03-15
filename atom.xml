@@ -1,20 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>多喝热水</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-15T06:50:23.473Z</updated>
+  <updated>2019-03-15T08:17:10.856Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>jhs</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>多喝热水</title>
+    <link href="http://yoursite.com/2019/03/15/%E5%A4%9A%E5%96%9D%E7%83%AD%E6%B0%B4/"/>
+    <id>http://yoursite.com/2019/03/15/多喝热水/</id>
+    <published>2019-03-15T08:03:14.000Z</published>
+    <updated>2019-03-15T08:17:10.856Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="哦"><a href="#哦" class="headerlink" title="哦"></a>哦</h1><h2 id="刚才在洗澡"><a href="#刚才在洗澡" class="headerlink" title="刚才在洗澡"></a>刚才在洗澡</h2><h3 id="睡觉了"><a href="#睡觉了" class="headerlink" title="睡觉了"></a>睡觉了</h3><p><strong>天冷多穿衣服，多喝热水，谨防感冒。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;哦&quot;&gt;&lt;a href=&quot;#哦&quot; class=&quot;headerlink&quot; title=&quot;哦&quot;&gt;&lt;/a&gt;哦&lt;/h1&gt;&lt;h2 id=&quot;刚才在洗澡&quot;&gt;&lt;a href=&quot;#刚才在洗澡&quot; class=&quot;headerlink&quot; title=&quot;刚才在洗澡&quot;&gt;&lt;/a&gt;刚才在洗澡&lt;/h
+      
+    
+    </summary>
+    
+      <category term="午夜之声" scheme="http://yoursite.com/categories/%E5%8D%88%E5%A4%9C%E4%B9%8B%E5%A3%B0/"/>
+    
+    
+      <category term="博客，文章，随笔" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0%EF%BC%8C%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
